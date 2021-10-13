@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaiwals
 - 👀 I’m interested in meeting passionate engineers who can help me on my passion project mentioned below
 - 🌱 I’m currently learning Flutter and Dart
-- 💞️ I’m looking to collaborate on my passion project building a better way for neighbors to interact - see naibly.com.
+- 💞️ I’m looking to collaborate on my passion project building a better way for neighbors to interact - see www.naibly.com.
 - 📫 How to reach me - shaiwal@gmail.com
 
 <!---
